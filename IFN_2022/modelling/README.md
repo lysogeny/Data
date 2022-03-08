@@ -30,3 +30,7 @@
 1. Open a notebook
 2. Run the notebook
 
+# Running on your data
+
+1. Replace the data in `parameter_estimation/data` with your data
+2. Run the notebooks

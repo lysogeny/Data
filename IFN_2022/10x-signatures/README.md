@@ -51,3 +51,8 @@ It is advised to install software through conda.
 
 1. Open a notebook
 2. Run the notebook
+
+# Running on your data
+
+1. Replace input data found in `data` with your data.
+2. Run the notebook.
